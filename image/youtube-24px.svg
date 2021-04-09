@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" d="M0,0H19.966V13.917H0Z" fill="#0077ed"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_312" data-name="그룹 312" transform="translate(-0.435 -0.436)">
+    <g id="그룹_1573" data-name="그룹 1573">
+      <g id="패스_446" data-name="패스 446" transform="translate(0.435 0.436)" fill="none" opacity="0">
+        <path d="M0,0H24V24H0Z" stroke="none"/>
+        <path d="M 2 2 L 2 22 L 22 22 L 22 2 L 2 2 M 0 0 L 24 0 L 24 24 L 0 24 L 0 0 Z" stroke="none" fill="#707070"/>
+      </g>
+      <g id="Group_3" data-name="Group 3" transform="translate(2.459 5.548)">
+        <path id="Clip_2-2" data-name="Clip 2" d="M0,0H19.966V13.917H0Z" fill="none"/>
+        <g id="Group_3-2" data-name="Group 3" clip-path="url(#clip-path)">
+          <path id="Fill_1" data-name="Fill 1" d="M10.463,13.917H9.5a63.1,63.1,0,0,1-7-.277A2.524,2.524,0,0,1,.348,11.678,21.272,21.272,0,0,1,0,6.959a21.509,21.509,0,0,1,.352-4.72A2.526,2.526,0,0,1,2.509.277a63.121,63.121,0,0,1,7-.277h.962a63.1,63.1,0,0,1,7,.277,2.527,2.527,0,0,1,2.159,1.962,21.125,21.125,0,0,1,.345,4.68v.04a21.24,21.24,0,0,1-.349,4.719,2.525,2.525,0,0,1-2.158,1.962A63.092,63.092,0,0,1,10.463,13.917ZM7.406,3.455v6.6l2.317-1.2,4.031-2.09L11.333,5.5l-.121-.063L7.406,3.455Z" transform="translate(0 0)" fill="#0077ed"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
